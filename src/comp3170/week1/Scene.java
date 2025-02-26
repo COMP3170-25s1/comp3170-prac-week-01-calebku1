@@ -46,6 +46,14 @@ public class Scene {
 			new Vector4f(-1.0f, -1.0f, 0.0f, 1.0f),
 			new Vector4f(1.0f, -1.0f, 0.0f, 1.0f),
 			new Vector4f(1.0f, 1.0f, 0.0f, 1.0f),
+				
+//				new Vector4f(0.f, 0.5f, 0.f, 1.0f),  // TOP
+//				new Vector4f(-0.5f, 0.f, 0.0f, 1.0f),//LEFT
+//				new Vector4f(0.5f, 0.f, 0.0f, 1.0f), //RIGHT
+//				
+//				new Vector4f(0.f, -0.5f, 0.0f, 1.0f),//BOTTOM
+//				new Vector4f(-0.5f, 0.f, 0.0f, 1.0f), //LEFT
+//				new Vector4f(0.5f, 0.f, 0.0f, 1.0f),  //RIGHT			
 		};
 			
 		// @formatter:on
